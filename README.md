@@ -44,9 +44,6 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
  실행파일은 프로젝트폴더안의 dist폴더 안에 생겨 그 안에 파일을 배포하면된다.
  (이미지 나 드라이버는 경로폴더(venv/include)를 만들어서 따로넣어주었다.)
  
- ![auto](https://user-images.githubusercontent.com/26120409/47321075-7c112a80-d68e-11e8-81c5-16ce1b526c25.png)
+ ![auto](https://user-images.githubusercontent.com/26120409/47321122-b084e680-d68e-11e8-9dc6-c184cb529f0d.png)
 
- 
- 
- 
  
