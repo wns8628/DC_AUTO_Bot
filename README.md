@@ -48,4 +48,9 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
  
  ![auto](https://user-images.githubusercontent.com/26120409/47321122-b084e680-d68e-11e8-9dc6-c184cb529f0d.png)
 
- 
+ -----------------------------------------------------------------------------
+
+파이참과 anaconda설치후 
+GUI는 Qt Designer 이용하여 제작하였고 ui파일을 파이썬코드로 변환한뒤 함수를 만들어 버튼에 이벤트를 연결해주었다. 
+(https://wikidocs.net/5226 참고)
+
