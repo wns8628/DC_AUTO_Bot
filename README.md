@@ -54,3 +54,6 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 GUI는 Qt Designer 이용하여 제작하였고 ui파일을 파이썬코드로 변환한뒤 함수를 만들어 버튼에 이벤트를 연결해주었다. 
 (https://wikidocs.net/5226 참고)
 
+* PyQt는 이름에서 알 수 있듯이 Qt라는 GUI 프레임워크의 파이썬 바인딩입니다.
+현재 공식적으로 지원하는 Qt 메이저 버전은 Qt4와 Qt5입니다. 그래서 Qt의 파이썬 바인딩인 PyQt도 PyQt4와 PyQt5로 두 가지 버전이 제공됩니다. 
+아나콘다 배포판에서 공식적으로 지원하는 PyQt5를 사용합니다.
